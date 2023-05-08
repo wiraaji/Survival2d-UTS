@@ -1,7 +1,7 @@
 
 # Survival 2D
 
-Project ini dibuat menggunakan Godot v4.0.2.  Project ini ditunjukan untuk memenuhi UTS Pengmebangan Aplikasi Permainan.
+Project ini dibuat menggunakan Godot v4.0.2.  Project ini ditunjukan untuk memenuhi UTS Pengembangan Aplikasi Permainan.
 
 ## Authors
 
