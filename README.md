@@ -5,8 +5,7 @@ Project ini dibuat menggunakan Godot v4.0.2.  Project ini ditunjukan untuk memen
 
 ## Authors
 
-- [@Wira Aji Nugraha](https://github.com/wiraaji/) - 32602000064
-- [Teknik Informatika - Universitas Islam Sultan Agung0](https://cs.unissula.ac.id/)
+- [@Wira Aji Nugraha](https://github.com/wiraaji/) - 32602000064 - [Teknik Informatika - Universitas Islam Sultan Agung](https://cs.unissula.ac.id/)
 
 
 ## Screenshots
